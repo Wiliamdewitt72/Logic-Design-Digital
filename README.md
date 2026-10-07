@@ -10,6 +10,7 @@
 #### 2. Compuertas lógicas y tablas de verdad
   1. Operadores y tablas de verdad NOT, AND, OR
   2. Ejemplos simples de problemas resueltos con compuertas
+  - [Practica 1](./Practicas/README.md)
 ### Semana 2
 #### 3. Bases numéricas, complementos y códigos
 1. Sistema decimal, binario, hexadecimal y octal.
@@ -25,6 +26,7 @@
 3. Expresión y tabla de verdad de un circuito.
 4. Simplificación de expresiones con algebra de Boole.
 5. Suma de productos y producto de sumas estándar.
+- [Practica 2](./Practicas/README.md)
 ### Semana 4
 #### 5. Mapas de Karnaugh
 1. Mapas de tres y cuatro variables
